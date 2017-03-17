@@ -1,6 +1,6 @@
 {
-  "name": "apiai-t",
-  "version": "4.0.1",
+  "name": "apiai-exhanced",
+  "version": "4.1.0",
   "description": "Node.js SDK for api.ai",
   "main": "index.js",
   "types": "index.d.ts",
